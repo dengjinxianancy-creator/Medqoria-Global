@@ -70,3 +70,10 @@ body{background:#fff;color:var(--ink)}
 /* Requested hero headline size */
 .hero h1{font-size:40px;letter-spacing:-2px}
 
+
+/* Requested headline and subtitle sizes */
+.hero h1{font-size:60px;letter-spacing:-2.5px}
+.section-heading h2,.approach h2,.partner-heading h2,.contact h2{font-size:40px;font-weight:800}
+.section-heading h2 em,.approach h2 em,.partner-heading h2 em,.contact h2 em{font-weight:800}
+.service-card h3,.benefit-list h3,.partner-card h3{font-size:40px;font-weight:800;line-height:1.12}
+@media(max-width:650px){.hero h1{font-size:60px;letter-spacing:-2.5px}}
