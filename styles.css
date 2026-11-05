@@ -60,3 +60,9 @@ body{background:#fff;color:var(--ink)}
 .icon-cycle:before{border-color:var(--teal);border-right-color:transparent}
 .icon-cycle:after{border-left-color:var(--teal)}
 .icon-device:after{background:var(--teal)}
+
+/* Requested home headline and service-card type hierarchy. */
+.eyebrow{white-space:nowrap}
+.hero h1 strong,.hero h1 em{font-weight:800}
+.service-card h3{font-size:24px;line-height:1.2}
+.service-card p,.service-card .card-arrow{font-size:12px}
