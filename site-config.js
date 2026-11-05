@@ -1,2 +1,3 @@
-// The presentation supplied info@domain as a placeholder. Replace before launch.
-window.SITE_CONFIG = { contactEmail: 'info@domain' };
+// Central contact address used by the contact links and inquiry form.
+window.SITE_CONFIG = { contactEmail: 'info@medqoria.com' };
+

@@ -66,3 +66,7 @@ body{background:#fff;color:var(--ink)}
 .hero h1 strong,.hero h1 em{font-weight:800}
 .service-card h3{font-size:24px;line-height:1.2}
 .service-card p,.service-card .card-arrow{font-size:12px}
+
+/* Requested hero headline size */
+.hero h1{font-size:40px;letter-spacing:-2px}
+
