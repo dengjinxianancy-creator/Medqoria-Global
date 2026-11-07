@@ -124,3 +124,8 @@ body{background:#fff;color:var(--ink)}
 /* Talk to our team section typography */
 .contact .section-index,.contact-copy>p,.contact-direct small,.contact-direct a,.contact-footnote,.contact-form,.contact-form *{font-size:12px}
 
+
+/* Contact form accents and footer typography */
+.form-heading span:first-child,.contact-direct small{color:var(--teal)}
+.footer-main>p,.back-top{font-size:12px}
+
