@@ -111,3 +111,7 @@ body{background:#fff;color:var(--ink)}
 /* Device experience strip typography */
 .device-strip,.device-strip .strip-label,.device-strip .strip-classes,.device-strip .strip-classes small{font-size:12px}
 
+
+/* Our approach supporting paragraph size */
+.benefit-list p{font-size:12px}
+
