@@ -115,3 +115,8 @@ body{background:#fff;color:var(--ink)}
 /* Our Approach supporting copy: consistent 12px across screen sizes */
 .benefit-list p{font-size:12px}
 
+
+/* Partnership card typography */
+.partner-card h3{font-family:var(--display);font-size:30px;font-weight:800}
+.partner-card .partner-label,.partner-card p,.partner-card>.partner-letter,.partner-card>b,.partner-note p,.partner-note a{font-size:12px}
+
