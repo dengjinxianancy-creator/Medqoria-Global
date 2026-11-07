@@ -120,3 +120,7 @@ body{background:#fff;color:var(--ink)}
 .partner-card h3{font-family:var(--display);font-size:30px;font-weight:800}
 .partner-card .partner-label,.partner-card p,.partner-card>.partner-letter,.partner-card>b,.partner-note p,.partner-note a{font-size:12px}
 
+
+/* Talk to our team section typography */
+.contact .section-index,.contact-copy>p,.contact-direct small,.contact-direct a,.contact-footnote,.contact-form,.contact-form *{font-size:12px}
+
