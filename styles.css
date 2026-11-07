@@ -82,3 +82,7 @@ body{background:#fff;color:var(--ink)}
 .hero-proof span{font-size:12px}
 .hero-bottom{font-size:16px;letter-spacing:1px;gap:18px}
 @media(max-width:650px){.hero-bottom{position:static;margin-top:24px;flex-direction:column;align-items:flex-start;gap:8px;font-size:16px;letter-spacing:.6px}}
+
+/* Selected hero proof caption */
+.hero-proof span:first-of-type{font-size:20px}
+
