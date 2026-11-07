@@ -103,3 +103,7 @@ body{background:#fff;color:var(--ink)}
 /* Service-card subtitle size */
 .service-card h3{font-size:30px}
 
+
+/* Our approach supporting subtitles */
+.benefit-list h3{font-family:var(--display);font-size:30px;font-weight:800}
+
