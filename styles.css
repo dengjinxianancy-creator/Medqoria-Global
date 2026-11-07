@@ -107,3 +107,7 @@ body{background:#fff;color:var(--ink)}
 /* Our approach supporting subtitles */
 .benefit-list h3{font-family:var(--display);font-size:30px;font-weight:800}
 
+
+/* Device experience strip typography */
+.device-strip,.device-strip .strip-label,.device-strip .strip-classes,.device-strip .strip-classes small{font-size:12px}
+
