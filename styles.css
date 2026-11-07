@@ -99,3 +99,7 @@ body{background:#fff;color:var(--ink)}
 /* Both hero proof captions at 14px */
 .hero-proof span,.hero-proof span:first-of-type{font-size:14px}
 
+
+/* Service-card subtitle size */
+.service-card h3{font-size:30px}
+
