@@ -18,8 +18,6 @@ body{background:#fff;color:var(--ink)}
 .button-light{background:var(--teal);color:#fff}
 .hero-proof{color:#5b708c}
 .hero-proof strong{color:var(--teal)}
-.hero h1{color:#012c63}
-.hero h1 em{color:#f2c94c}
 .intro-band,.contact{background:#fff}
 .intro-inner p{color:#405976}
 .service-featured{background:#eaf6f5}
